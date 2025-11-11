@@ -1,0 +1,17 @@
+[
+  {"id":1,"q":"What is the capital of India?","options":["Mumbai","Delhi","Kolkata","Chennai"],"correctIndex":1},
+  {"id":2,"q":"Which language is primarily used for Android app development?","options":["Ruby","Kotlin","Swift","C#"],"correctIndex":1},
+  {"id":3,"q":"Which HTML tag is used to create a link?","options":["<img>","<a>","<link>","<href>"],"correctIndex":1},
+  {"id":4,"q":"What does CSS stand for?","options":["Computer Style Sheets","Cascading Style Sheets","Creative Style System","Custom Style Sheets"],"correctIndex":1},
+  {"id":5,"q":"Which data structure uses FIFO?","options":["Stack","Queue","Tree","Graph"],"correctIndex":1},
+  {"id":6,"q":"Which operator is used for equality in JavaScript?","options":["=","==","===","equals"],"correctIndex":2},
+  {"id":7,"q":"What is 2^5?","options":["10","16","32","64"],"correctIndex":2},
+  {"id":8,"q":"Which SQL command is used to remove a table?","options":["DROP","DELETE","REMOVE","TRUNCATE"],"correctIndex":0},
+  {"id":9,"q":"Which protocol is used to load web pages?","options":["FTP","SMTP","HTTP","SSH"],"correctIndex":2},
+  {"id":10,"q":"Which one is a NoSQL database?","options":["MySQL","PostgreSQL","MongoDB","SQLite"],"correctIndex":2},
+  {"id":11,"q":"What does HTTP status 404 mean?","options":["Server error","Not found","Unauthorized","OK"],"correctIndex":1},
+  {"id":12,"q":"Which sorting algorithm has average time O(n log n)?","options":["Bubble Sort","Insertion Sort","Quick Sort","Selection Sort"],"correctIndex":2},
+  {"id":13,"q":"Which tag is used to include JavaScript in HTML?","options":["<script>","<js>","<javascript>","<code>"],"correctIndex":0},
+  {"id":14,"q":"Which one is a frontend framework?","options":["Django","Flask","React","Laravel"],"correctIndex":2},
+  {"id":15,"q":"Time complexity of accessing array element by index?","options":["O(1)","O(n)","O(log n)","O(n log n)"],"correctIndex":0}
+]
