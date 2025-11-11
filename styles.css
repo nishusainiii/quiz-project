@@ -1,0 +1,8 @@
+body{font-family:sans-serif;background:#eef;padding:20px;}
+.container{max-width:600px;margin:auto;background:white;padding:20px;border-radius:10px;}
+ul{list-style:none;padding:0;}
+li{margin:8px 0;padding:10px;border:1px solid #ccc;border-radius:6px;cursor:pointer;}
+li.correct{background:#c6ffc6;}
+li.wrong{background:#ffc6c6;}
+#progress{height:10px;background:#ccc;border-radius:5px;margin-bottom:10px;}
+#bar{height:100%;width:0;background:green;}
